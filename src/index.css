@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: Founders;
+  src: url(./Fonts/FoundersGrotesk-Light.woff2) format("woff2");
+}
+@font-face {
+  font-family: Founders_semibold;
+  src: url(./Fonts/FoundersGrotesk-Medium.woff2) format("woff2");
+}
+
+@font-face {
+  font-family: Founders_bold;
+  src: url(./Fonts/FoundersGrotesk-Bold.woff2) format("woff2");
+}
+
+@font-face {
+  font-family: Founders_regular;
+  src: url(./Fonts/FoundersGrotesk-Regular.woff2) format("woff2");
+}
+
+@font-face {
+  font-family: Neue_Montreal;
+  src: url(./Fonts/NeueMontreal-Regular.woff2) format("woff2");
+}
+
+@font-face {
+  font-family: Neue_Montreal_medium;
+  src: url(./Fonts/NeueMontreal-Medium.woff2) format("woff2");
+}
+
+@font-face {
+  font-family: Neue_Montreal_bold;
+  src: url(./Fonts/NeueMontreal-Bold.woff2) format("woff2");
+}
